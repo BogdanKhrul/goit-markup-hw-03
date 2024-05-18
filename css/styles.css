@@ -143,3 +143,7 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+
+img {
+  display: block;
+}
