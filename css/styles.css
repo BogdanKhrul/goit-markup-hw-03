@@ -147,3 +147,40 @@ body {
 img {
   display: block;
 }
+
+.web-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-div {
+  display: flex;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.header-navigation {
+  display: flex;
+  align-items: center;
+}
+
+.main-logo {
+  margin-right: 76px;
+}
+
+.navigation-studio {
+  display: flex;
+  gap: 40px;
+}
+
+.navigation-studio-m {
+  padding: 24px 0;
+}
+
+.contact-menu {
+  display: flex;
+  gap: 40px;
+}
