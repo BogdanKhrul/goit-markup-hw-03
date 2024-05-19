@@ -299,4 +299,9 @@ img {
 
 .zag {
   margin-bottom: 8px;
+  /* text-align: center; */
+}
+
+ul {
+  list-style-type: none;
 }
