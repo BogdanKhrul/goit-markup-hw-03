@@ -261,16 +261,16 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
+  text-align: center;
 }
 
 /* ----------SECTION 4 END----------*/
 
 /* ----------FOOTER---------- */
 
-/* ----------FOOTER END---------- */
-
 .page-footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .footer-logo {
@@ -281,6 +281,8 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .logo-second {
@@ -291,4 +293,7 @@ a {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
+
+/* ----------FOOTER END---------- */
